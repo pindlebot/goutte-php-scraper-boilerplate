@@ -1,0 +1,13 @@
+{
+    "name": "ben/test_project",
+    "authors": [
+        {
+            "name": "Ben",
+            "email": "bgardner620@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "fabpot/goutte": "^3.2"
+    }
+}
